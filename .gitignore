@@ -1,0 +1,4 @@
+.stack-work/
+StackTest.cabal
+*~
+.DS_Store

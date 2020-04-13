@@ -1,4 +1,3 @@
-# Haskell test app
 module Main where
 
 
